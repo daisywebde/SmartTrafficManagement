@@ -1,0 +1,7 @@
+=== Traffic Signal Sequence ===
+1. West | Vehicles: 4 | Emergency: Yes | Duration: 24 seconds
+2. East | Vehicles: 41 | Emergency: No | Duration: 61 seconds
+3. South | Vehicles: 23 | Emergency: No | Duration: 43 seconds
+4. North | Vehicles: 0 | Emergency: No | Duration: 0 seconds
+===============================
+
